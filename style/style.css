@@ -11,4 +11,27 @@
   .navbar a {
     color: white;
     margin: 5px;
+    font-size: 20px;
+  }
+
+  .ul {
+    font-size: 30px;
+    list-style: none;
+    margin-top: 30px;
+    display: inline-block;
+   
+  }
+
+  .ul li {
+    border: 1px solid rosybrown;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+   
+  }
+
+  .containerImg {
+    display: inline-block;
+    vertical-align: top;
+    margin: 30px;
   }
